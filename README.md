@@ -43,4 +43,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 
 ## Contact
 
-For any inquiries or feedback regarding this project, please contact the project team at [lokes2602@email.com](mailto:lokes2602@email.com).
+For any inquiries or feedback regarding this project, please contact the project team at [lokes2602@gmail.com](mailto:lokes2602@gmail.com).
